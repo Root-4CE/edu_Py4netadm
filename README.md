@@ -1,2 +1,2 @@
 # edu_Py4netadm
-Education_process_by materials_from_book_Python для сетевых инженеров
+Education_process_by materials_from_books
